@@ -1,0 +1,15 @@
+theme: jekyll-theme-minimal
+title: Privacy & Terms - Signalling Technology
+description: Privacy Policy and Terms of Service of the App 
+
+# Language-specific settings
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      lang: "en"
+      title: "Privacy & Terms - Signalling Technology"
+      description: "Privacy Policy and Terms of Service of the App "
+
+
