@@ -20,9 +20,19 @@ SocketChat (hereinafter referred to as "we" or "the App") is a TCP/UDP network p
 
 ## User Data Collection
 
-### We Do Not Collect User Data
+### SocketChat Itself Does Not Collect User Data
 
-- **Zero Data Collection**: SocketChat pledges not to collect, store, or analyze any personal data from users, including but not limited to network debugging data, device information, location data, etc. We firmly believe that your data should solely belong to you.
+- **No First-Party Data Collection**: SocketChat itself pledges not to collect, store, or analyze any personal data from users, including but not limited to network debugging data, device information, location data, etc. We firmly believe that your data should solely belong to you.
+
+### Third-Party Services (Google AdMob)
+
+To help support the continuous development of the App and keep core features free, we display advertisements in the App. We integrate Google AdMob (provided by Google LLC) as our third-party advertising service.
+
+- **Google AdMob SDK Data Collection**: Google AdMob may collect and process certain data automatically for ad personalization, performance measurement, attribution, and fraud prevention. This data may include:
+  - **Identifiers**: Device advertising identifiers (such as Apple's Identifier for Advertisers (IDFA) or Identifier for Vendors (IDFV)).
+  - **Device & Usage Info**: Device model, operating system, network connection type, and technical diagnostic logs.
+  - **Ad Interactions**: Click logs, impressions, and user interactions with advertisements displayed.
+- **Google's Privacy Policy**: We encourage you to review Google's privacy practices to understand how they collect and use your data. For more information, please visit [Google's Partner Privacy Policy](https://policies.google.com/technologies/partner-sites) and [Google Privacy & Terms](https://policies.google.com/privacy).
 
 ## Security Measures
 
@@ -39,5 +49,5 @@ If you have any questions or suggestions regarding SocketChat's Privacy Policy, 
 
 We may update our Privacy Policy from time to time. Therefore, we recommend that you check this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes will take effect immediately upon posting on this page.
 
-Last updated: December 21, 2025
+Last updated: May 26, 2026
 
