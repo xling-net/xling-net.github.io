@@ -8,3 +8,11 @@ PCAP-Tools is a utility designed for processing PCAP files.
 
 - [Privacy Policy](pcap-tools/privacy-policy.md)
 - [Support](pcap-tools/support.md)
+
+## SocketChat APP
+
+SocketChat is a TCP/UDP network protocol debugging tool that makes network debugging as easy as chatting with friends, turning tedious network debugging into something fun.
+
+- [Technical Support](socketchat/support.md)
+- [Privacy Policy](socketchat/privacy-policy.md)
+
