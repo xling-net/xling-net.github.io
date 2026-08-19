@@ -16,3 +16,11 @@ SocketChat is a TCP/UDP network protocol debugging tool that makes network debug
 - [Technical Support](socketchat/support.md)
 - [Privacy Policy](socketchat/privacy-policy.md)
 
+## HTTPBuddy APP
+
+HTTPBuddy is an iOS HTTP/API and WebSocket debugging tool.
+
+- [Technical Support](httpbuddy/support.md)
+- [Privacy Policy](httpbuddy/privacy-policy.md)
+- [Terms of Service](httpbuddy/terms-of-service.md)
+
