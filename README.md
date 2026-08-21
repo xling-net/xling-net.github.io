@@ -24,3 +24,11 @@ HTTPBuddy is an iOS HTTP/API and WebSocket debugging tool.
 - [Privacy Policy](httpbuddy/privacy-policy.md)
 - [Terms of Service](httpbuddy/terms-of-service.md)
 
+## WeakSim APP
+
+WeakSim is an iOS weak-network simulator. It intercepts on-device traffic through a system VPN and applies delay, loss, throttling, and other impairments to reproduce real-world poor network conditions.
+
+- [Technical Support](weaksim/support.md)
+- [Privacy Policy](weaksim/privacy-policy.md)
+- [Terms of Service](weaksim/terms-of-service.md)
+
